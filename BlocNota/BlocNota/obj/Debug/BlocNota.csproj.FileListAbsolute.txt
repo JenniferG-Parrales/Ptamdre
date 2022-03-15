@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BlocNota\BlocNota\bin\Debug\BlocNota.exe.config
+C:\Users\Admin\source\repos\BlocNota\BlocNota\bin\Debug\BlocNota.exe
+C:\Users\Admin\source\repos\BlocNota\BlocNota\bin\Debug\BlocNota.pdb
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.Form1.resources
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.Properties.Resources.resources
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.exe
+C:\Users\Admin\source\repos\BlocNota\BlocNota\obj\Debug\BlocNota.pdb
