@@ -33,10 +33,10 @@ namespace BlocNota
 
         }
 
-        private string ReadFiles(DirectoryInfo directoryInfo)
-        {
-            throw new NotImplementedException();
-        }
+       // private string ReadFiles(DirectoryInfo directoryInfo)
+        //{
+          //  throw new NotImplementedException();
+        //}
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
